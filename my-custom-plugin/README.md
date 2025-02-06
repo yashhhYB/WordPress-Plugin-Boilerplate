@@ -14,3 +14,8 @@ A simple WordPress plugin that displays a custom admin notice in the dashboard.
 
 ## License
 GPL-2.0+
+🎯 Support & Contact
+Have questions or need help?
+
+Open an Issue in the repository.
+Reach out to me via GitHub.
